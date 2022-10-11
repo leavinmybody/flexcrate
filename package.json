@@ -1,0 +1,44 @@
+{
+  "name": "stream-it",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.5",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@iconscout/react-unicons": "^1.1.6",
+    "@tinymce/tinymce-react": "^4.2.0",
+    "draft-js": "^0.11.7",
+    "firebase": "^9.11.0",
+    "framer-motion": "^7.5.3",
+    "fs-extra": "^10.1.0",
+    "html-react-parser": "^3.0.4",
+    "moment": "^2.29.4",
+    "plyr-react": "^5.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.4.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-player": "^2.11.0",
+    "react-router-dom": "^6.4.2",
+    "screenfull": "^6.0.2",
+    "tinymce": "^6.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.0"
+  }
+}
