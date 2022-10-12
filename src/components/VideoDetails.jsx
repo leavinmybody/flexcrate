@@ -167,9 +167,6 @@ const VideoDetails = () => {
       py={2}
       px={4}
     >
-      <head>
-        <title>{videoInfo?.title}</title>
-      </head>
       <Flex alignItems={"center"} width={"full"} my={4}>
         <Link to={"/"}>
           <IoHome fontSize={25} />
